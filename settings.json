@@ -1,6 +1,6 @@
 {
 "allowedModels": ["stable_diffusion", "Midjourney Diffusion", "stable_diffusion_2.1", "stable_diffusion_2.0", "colorbook", "Arcane Diffusion", "Squishmallow Diffusion", "Spider-Verse Diffusion", "Archer Diffusion", "Elden Ring Diffusion", "Robo-Diffusion", "mo-di-diffusion", "Classic Animation Diffusion", "Comic-Diffusion", "Tron Legacy Diffusion", "Microworlds", "Redshift Diffusion", "Borderlands", "Papercut Diffusion", "AIO Pixel Art", "JWST Deep Space Diffusion", "App Icon Diffusion", "Voxel Art Diffusion", "Van Gogh Diffusion", "BubblyDubbly", "Dungeons and Diffusion", "Clazy", "Nitro Diffusion", "Samdoesarts Ultmerge", "Synthwave", "vectorartz", "Ranma Diffusion", "Fantasy Card Diffusion", "Knollingcase", "Midjourney PaintArt", "Wavyfusion", "Papercutcraft", "Kurzgesagtish", "ChromaV5"],
-"validSamplers": ["k_lms", "k_heun", "k_euler", "k_euler_a", "k_dpm_2", "k_dpm_2_a", "k_dpm_fast", "k_dpm_adaptive", "k_dpmpp_2s_a", "k_dpmpp_2m"],
+"allowedSamplers": ["k_lms", "k_heun", "k_euler", "k_euler_a", "k_dpm_2", "k_dpm_2_a", "k_dpm_fast", "k_dpm_adaptive", "k_dpmpp_2s_a", "k_dpmpp_2m"],
 "allowedStyles": [],
 "bannedStyles": ["anything", "anything_raw", "ennui"]
 }
