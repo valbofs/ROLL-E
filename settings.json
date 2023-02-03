@@ -97,7 +97,9 @@
     "Pokemon3D",
     "Concept Sheet",
     "Deliberate",
-    "Vivid Watercolors"
+    "Vivid Watercolors",
+    "Pulp Vector Art",
+    "Mega Merge Diffusion"
   ],
   "allowedSamplers": [
     "k_lms",
