@@ -110,7 +110,11 @@
     "Rodent Diffusion",
     "PRMJ",
     "Elldreths Retro Mix",
-    "VinteProtogenMix"
+    "VinteProtogenMix",
+    "Microcritters",
+    "Experience",
+    "Microchars",
+    "Microcasing"
   ],
   "allowedSamplers": [
     "k_lms",
