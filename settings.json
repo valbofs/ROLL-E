@@ -114,7 +114,9 @@
     "Microcritters",
     "Experience",
     "Microchars",
-    "Microcasing"
+    "Microcasing",
+    "ControlNet - Canny",
+    "Open Journey Beta"
   ],
   "allowedSamplers": [
     "k_lms",
