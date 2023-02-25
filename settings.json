@@ -116,7 +116,22 @@
     "Microchars",
     "Microcasing",
     "ControlNet - Canny",
-    "Open Journey Beta"
+    "Open Journey Beta",
+    "UMI Olympus",
+    "Colorful",
+    "Healy's Anime Blend",
+    "HRL",
+    "BPModel",
+    "Anime Pencil Diffusion",
+    "GuoFeng",
+    "Movie Diffusion",
+    "stable_diffusion_2.0_512",
+    "waifu_diffusion",
+    "Anything v3",
+    "ACertainThing",
+    "SynthwavePunk",
+    "stable_diffusion_2.1_512",
+    "A to Zovya RPG"
   ],
   "allowedSamplers": [
     "k_lms",
