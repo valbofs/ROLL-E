@@ -130,7 +130,8 @@
     "ACertainThing",
     "SynthwavePunk",
     "stable_diffusion_2.1_512",
-    "A to Zovya RPG"
+    "A to Zovya RPG",
+    "Anything Diffusion"
   ],
   "allowedSamplers": [
     "k_lms",
