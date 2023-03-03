@@ -131,7 +131,9 @@
     "SynthwavePunk",
     "stable_diffusion_2.1_512",
     "A to Zovya RPG",
-    "Anything Diffusion"
+    "Anything Diffusion",
+    "SD-Silicon",
+    "Graphic-Art"
   ],
   "allowedSamplers": [
     "k_lms",
