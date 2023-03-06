@@ -115,7 +115,6 @@
     "Experience",
     "Microchars",
     "Microcasing",
-    "Open Journey Beta",
     "UMI Olympus",
     "Colorful",
     "Healy's Anime Blend",
@@ -134,7 +133,8 @@
     "Anything Diffusion",
     "SD-Silicon",
     "Graphic-Art",
-    "Illuminati Diffusion"
+    "Illuminati Diffusion",
+    "FKing SciFi"
   ],
   "allowedSamplers": [
     "k_lms",
