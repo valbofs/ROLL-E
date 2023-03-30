@@ -3,7 +3,6 @@
     "stable_diffusion",
     "Midjourney Diffusion",
     "stable_diffusion_2.1",
-    "colorbook",
     "Arcane Diffusion",
     "Squishmallow Diffusion",
     "Spider-Verse Diffusion",
@@ -132,7 +131,26 @@
     "FKing SciFi",
     "FaeTastic",
     "OrbAI",
-    "Realism Engine"
+    "Realism Engine",
+    "Pretty 2.5D",
+    "Coloring Book",
+    "RealBiter",
+    "Poison",
+    "Jim Eidomode",
+    "Something",
+    "Korestyle",
+    "PVC",
+    "PIXHELL",
+    "RCNZ Dumb Monkey",
+    "TrexMix",
+    "iCoMix",
+    "RCNZ Gorilla With A Brick",
+    "Disco Elysium",
+    "DucHaiten Classic Anime",
+    "Char",
+    "ExpMix Line",
+    "Realistic Vision",
+    "Kenshi"
   ],
   "allowedSamplers": [
     "k_lms",
@@ -145,7 +163,8 @@
     "k_dpm_adaptive",
     "k_dpmpp_2s_a",
     "k_dpmpp_2m",
-    "k_dpmpp_sde"
+    "k_dpmpp_sde",
+    "DDIM"
   ],
   "allowedStyles": [],
   "bannedStyles": []
