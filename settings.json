@@ -159,7 +159,6 @@
     "Mistoon Amethyst",
     "ICBINP - I Can't Believe It's Not Photography",
     "MoonMix Fantasy",
-    "Beautiful Realistic Asians",
     "Lyriel",
     "Ether Real Mix",
     "Elysium Anime",
@@ -179,7 +178,19 @@
     "Dark Sushi Mix",
     "majicMIX realistic",
     "NeverEnding Dream",
-    "Disney Pixar Cartoon Type A"
+    "Disney Pixar Cartoon Type A",
+    "BRA",
+    "AnyLoRA",
+    "Samaritan 3d Cartoon",
+    "CamelliaMix 2.5D",
+    "Reliberate",
+    "ToonYou",
+    "Real Dos Mix",
+    "Anything v5",
+    "Liberty",
+    "BweshMix",
+    "Cetus-Mix",
+    "Realisian"
   ],
   "allowedSamplers": [
     "k_lms",
